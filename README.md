@@ -1,4 +1,4 @@
-# Amplification Over Automation
+# Builders in the Loop
 
 A timeless reflection for thoughtful engineers navigating the AI era.  
 **Amplify what matters. Stay in the loop. Never stop building.**
