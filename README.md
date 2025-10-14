@@ -6,6 +6,9 @@ A timeless reflection for thoughtful engineers navigating the AI era.
 > This is not a cheatsheet for models — it’s a compass for you.  
 > A mindset guide for those who still find joy in the act of building.
 
+**What do we mean by amplification?**
+Amplification means the builder stays in the loop — aware, in control, and doing what they want to do.
+
 ---
 
 ## Where We Are
