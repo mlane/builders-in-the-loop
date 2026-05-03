@@ -19,7 +19,7 @@ This isn’t just a trend. It’s a transformation. One that invites — and, in
 
 But here’s the truth:  
 It’s not about what you know.  
-It’s about how you use what you know — and how clearly you can express it.
+It’s about how you use what you know, and how clearly you can express it.
 
 We used to search. Now, we converse.
 
